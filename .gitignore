@@ -1,0 +1,11 @@
+# folders
+__pycache__
+.cache
+backup
+old
+wandb
+checkpoints*
+logs*
+result*
+vis*
+test*

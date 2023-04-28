@@ -1,0 +1,93 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Train nyu",
+			"type": "python",
+			"request": "launch",
+			"program": "train.py",
+			"console": "integratedTerminal",
+			"args": [
+				"args_train_nyu.txt"
+			]
+		},
+		{
+			"name": "Train nyu resume",
+			"type": "python",
+			"request": "launch",
+			"program": "train.py",
+			"console": "integratedTerminal",
+			"args": [
+				"args_train_nyu_resume.txt"
+			]
+		},
+		{
+			"name": "Train nyu finetune",
+			"type": "python",
+			"request": "launch",
+			"program": "train.py",
+			"console": "integratedTerminal",
+			"args": [
+				"args_train_nyu_finetune.txt"
+			]
+		},
+		{
+			"name": "Train mi",
+			"type": "python",
+			"request": "launch",
+			"program": "train.py",
+			"console": "integratedTerminal",
+			"args": [
+				"args_train_mi.txt"
+			]
+		},
+		{
+			"name": "Train mi single",
+			"type": "python",
+			"request": "launch",
+			"program": "train.py",
+			"console": "integratedTerminal",
+			"args": [
+				"args_train_mi_dev.txt"
+			]
+		},
+		{
+			"name": "Unet test",
+			"type": "python",
+			"request": "launch",
+			"program": "models/unet.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Eval mi",
+			"type": "python",
+			"request": "launch",
+			"program": "eval_mi.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Eval nyu",
+			"type": "python",
+			"request": "launch",
+			"program": "eval_nyu.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Eval kitti",
+			"type": "python",
+			"request": "launch",
+			"program": "eval_kitti.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Python: Current File",
+			"type": "python",
+			"request": "launch",
+			"program": "${file}",
+			"console": "integratedTerminal"
+		},
+	]
+}

@@ -1,0 +1,9 @@
+../datasets/mi/train_dataset/466/c1/466_c1_SunMorning0037.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0037.tif
+../datasets/mi/train_dataset/466/c1/466_c1_Environment0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_Indoor0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunNoon_Indoor0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunNight_Indoor0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunMorning_Indoor0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunNoon_Indoor_Environment0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunNight_Indoor_Environment0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
+../datasets/mi/train_dataset/466/c1/466_c1_SunMorning_Indoor_Environment0038.jpg,../datasets/mi/train_dataset/466/c1/466_c1_CGeometry_ZDepth0038.tif
